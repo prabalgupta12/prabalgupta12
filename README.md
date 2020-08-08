@@ -12,4 +12,4 @@
 - ⚡ Fun fact: ...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=prabalgupta12)
-![counter](https://[en7k4niarxtrtbv].m.pipedream.net)
+![counter](https://en7k4niarxtrtbv.m.pipedream.net)

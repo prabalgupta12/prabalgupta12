@@ -12,4 +12,4 @@
 - ⚡ Fun fact: ...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=prabalgupta12)
-https://img.shields.io/static/v1?label=Profile-Views&message=${counter}&color=black
+![counter](https://[en7k4niarxtrtbv].m.pipedream.net)

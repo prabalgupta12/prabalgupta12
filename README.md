@@ -11,5 +11,5 @@
 ### 😄 Pronouns: ...
 ### ⚡ Fun fact: ...
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=synthwave)
+![Github stats](https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=onedark)
 ![counter](https://en7k4niarxtrtbv.m.pipedream.net)

@@ -13,4 +13,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=tokyonight)
 ![counter](https://en7k4niarxtrtbv.m.pipedream.net)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=prabalgupta12.github.io)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prabalgupta12&repo=prabalgupta12.github.io&theme=radical)

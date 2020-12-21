@@ -19,4 +19,4 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=tokyonight&hide=issues)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabalgupta12&langs_count=4)](https://github.com/prabalgupta12/github-readme-stats)
-
+</p>

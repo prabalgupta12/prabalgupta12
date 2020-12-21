@@ -7,9 +7,10 @@
 ### 👯 I’m looking to collaborate on WEB and ML based projects
 ### 📫 How to reach me: https://www.linkedin.com/in/prabal-gupta/
 ### ⚡ Fun fact: I don't like gaming.
-
+<p align = "centre">
 ![Github stats](https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=tokyonight&hide=issues)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prabalgupta12&repo=prabalgupta12.github.io&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabalgupta12&langs_count=4)](https://github.com/prabalgupta12/github-readme-stats)
+</p>

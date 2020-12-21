@@ -18,7 +18,5 @@
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=tokyonight&hide=issues)
 
- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prabalgupta12&repo=prabalgupta12.github.io&theme=radical)
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabalgupta12&langs_count=4)](https://github.com/prabalgupta12/github-readme-stats)
 

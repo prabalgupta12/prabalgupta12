@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://twitter.com/PrabalGupta__" target="_blank"><img src="https://img.shields.io/badge/-@PrabalGupta__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PrabalGupta__" width="17%"/></a>
   <a href="https://medium.com/@prabalgupta/" target="_blank"><img src="https://img.shields.io/badge/-@prabalgupta-000000?style=flat&labelColor=black&logo=Medium&link=https://medium.com/@prabalgupta/" width="16%"/></a>
-  <a href="https://www.linkedin.com/in/prabal-gupta/" target="_blank"><https://img.shields.io/badge/prabalgupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prabal-gupta/" width="20%"/></a>
+  <a href="https://www.linkedin.com/in/prabal-gupta/" target="_blank"><img src =https://img.shields.io/badge/-prabalgupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prabal-gupta/" width="20%"/></a>
   <a href="mailto:prabalgupta4343@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-prabalgupta4343@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:prabalgupta43436@gmail.com" width="25%"/></a>
 </p>
 

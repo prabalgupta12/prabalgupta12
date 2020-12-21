@@ -9,7 +9,7 @@
 ### ⚡ Fun fact: I don't like gaming.
 <p align = "centre" >
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=tokyonight&hide=issues)
+<img src = ![Github stats](https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=tokyonight&hide=issues)>
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prabalgupta12&repo=prabalgupta12.github.io&theme=radical)
 

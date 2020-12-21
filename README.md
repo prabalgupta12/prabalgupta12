@@ -9,9 +9,9 @@
 ### ⚡ Fun fact: I don't like gaming.
 <p align = "centre" >
   
-<img src = " ![Github stats](https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=tokyonight&hide=issues)>
+<img src = " ![Github stats](https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=tokyonight&hide=issues)">
 
-<img src = " ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prabalgupta12&repo=prabalgupta12.github.io&theme=radical)>
+<img src = " ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prabalgupta12&repo=prabalgupta12.github.io&theme=radical)">
 
-<img src = " [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabalgupta12&langs_count=4)](https://github.com/prabalgupta12/github-readme-stats)>
+<img src = " [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabalgupta12&langs_count=4)](https://github.com/prabalgupta12/github-readme-stats)">
 </p>

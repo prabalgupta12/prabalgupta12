@@ -16,6 +16,6 @@
 ### ⚡ Fun fact: I don't like gaming.
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=prabalgupta12&show_icons=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=prabalgupta12&show_icons=true&line_height=27&theme = radical">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prabalgupta12&hide=CSS,HTML">
 </p>

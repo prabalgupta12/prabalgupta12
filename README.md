@@ -15,8 +15,6 @@
 ### 📫 How to reach me: https://www.linkedin.com/in/prabal-gupta/
 ### ⚡ Fun fact: I don't like gaming.
 
-<p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=tokyonight">
-</p>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prabalgupta12">
 

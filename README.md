@@ -10,10 +10,10 @@
 
 ### Hi there 👋
 ### 🔭 I’m currently working on Web Development
-### 🌱 I’m currently learning ML and Data Science 
+### 🌱 I’m currently learning ML and Data Science
 ### 👯 I’m looking to collaborate on WEB and ML based projects
 ### 📫 How to reach me: https://www.linkedin.com/in/prabal-gupta/
-### ⚡ Fun fact: I don't like gaming.
+### ⚡ Other hobbbie : Reading Investing Books , Problem Solving , Cricket 
 
   <img src = "https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=tokyonight">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prabalgupta12">

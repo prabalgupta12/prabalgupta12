@@ -20,7 +20,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prabalgupta12)
 [![trophy](https://github-profile-trophy.vercel.app/?username=prabalgupta12)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prabalgupta12)
-
 [![my github activity graph](https://activity-graph.herokuapp.com/graph?username=prabalgupta12&theme=redical)](https://github.com/prabalgupta12/github-readme-activity-graph)

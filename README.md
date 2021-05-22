@@ -10,7 +10,7 @@
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=prabalgupta12)](https://github.com/ryo-ma/github-profile-trophy)
     
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prabalgupta12 &theme=redical)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prabalgupta12)
     
 
 ### Hi there 👋
@@ -23,4 +23,4 @@
   <img align = "center"  src = "https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=tokyonight" >
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prabalgupta12">
 
-[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=prabalgupta12&theme=tokyonight)](https://github.com/prabalgupta12/github-readme-activity-graph)    
+[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=prabalgupta12&theme=tokyonight)](https://github.com/prabalgupta12/github-readme-activity-graph )    

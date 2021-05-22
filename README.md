@@ -1,4 +1,7 @@
-<h1 align="center"><a href="https://prabalguptaportfolio.netlify.app/">Prabal Gupta</a></h1>
+### Hi there 👋  <h1 align="center"><a href="https://prabalguptaportfolio.netlify.app/">Prabal Gupta</a></h1>
+### 🔭 I’m currently working on Web Development
+### 🌱 I’m currently learning ML and Data Science
+### ⚡ Other hobbbie : Reading Investing Books , Problem Solving , Cricket
 
 ![counter](https://en7k4niarxtrtbv.m.pipedream.net)
 <p>
@@ -11,14 +14,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=prabalgupta12)](https://github.com/ryo-ma/github-profile-trophy)
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prabalgupta12)
-    
-
-### Hi there 👋
-### 🔭 I’m currently working on Web Development
-### 🌱 I’m currently learning ML and Data Science
-### 👯 I’m looking to collaborate on WEB and ML based projects
-### 📫 How to reach me: https://www.linkedin.com/in/prabal-gupta/
-### ⚡ Other hobbbie : Reading Investing Books , Problem Solving , Cricket
 
 <h2 align="center"> 🔭 Technology Stack</h2>    
 <p align="center">

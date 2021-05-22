@@ -11,7 +11,7 @@
   <a href="mailto:prabalgupta4343@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-prabalgupta4343@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:prabalgupta43436@gmail.com" width="25%"/></a>
 </p>
     
-    <p align="center">
+    
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=prabalgupta12)](https://github.com/ryo-ma/github-profile-trophy)
     
@@ -21,7 +21,7 @@
     
 [comment]: <> (<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prabalgupta12">)    
  
-    </p>
+
     
 <h2 align="center"> 🔭 Technology Stack</h2>    
 <p align="center">

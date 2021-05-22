@@ -10,7 +10,7 @@
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=prabalgupta12)](https://github.com/ryo-ma/github-profile-trophy)
     
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prabalgupta12)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prabalgupta12 &theme=redical)
     
 
 ### Hi there 👋

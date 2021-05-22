@@ -15,9 +15,10 @@
 ### 📫 How to reach me: https://www.linkedin.com/in/prabal-gupta/
 ### ⚡ Other hobbbie : Reading Investing Books , Problem Solving , Cricket 
 
-  <img  src = "https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=tokyonight align = "center" " >
+  <img align = "center"  src = "https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=tokyonight" >
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prabalgupta12">
-
+<p align = "center">
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prabalgupta12)
 [![trophy](https://github-profile-trophy.vercel.app/?username=prabalgupta12)](https://github.com/ryo-ma/github-profile-trophy)
 [![my github activity graph](https://activity-graph.herokuapp.com/graph?username=prabalgupta12&theme=redical)](https://github.com/prabalgupta12/github-readme-activity-graph)
+</p>

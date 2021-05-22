@@ -12,6 +12,7 @@
 </p>
     
     <p align="center">
+    
 [![trophy](https://github-profile-trophy.vercel.app/?username=prabalgupta12)](https://github.com/ryo-ma/github-profile-trophy)
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prabalgupta12)
@@ -19,6 +20,7 @@
 <img align = "center"  src = "https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=tokyonight">
     
 [comment]: <> (<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prabalgupta12">)    
+ 
     </p>
     
 <h2 align="center"> 🔭 Technology Stack</h2>    

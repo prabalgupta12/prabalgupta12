@@ -19,3 +19,4 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prabalgupta12">
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prabalgupta12)
+![Python](https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&color=blue)

@@ -11,10 +11,12 @@
   <a href="mailto:prabalgupta4343@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-prabalgupta4343@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:prabalgupta43436@gmail.com" width="25%"/></a>
 </p>
     
+    <p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=prabalgupta12)](https://github.com/ryo-ma/github-profile-trophy)
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prabalgupta12)
-
+    </p>
+    
 <h2 align="center"> 🔭 Technology Stack</h2>    
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;

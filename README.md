@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://prabalgupta12.github.io/">Prabal Gupta</a></h1>
 
-![counter](https://en7k4niarxtrtbv.m.pipedream.net)
+<img align="left" ![counter](https://en7k4niarxtrtbv.m.pipedream.net)>
 <p>
   <a href="https://twitter.com/PrabalGupta__" target="_blank"><img src="https://img.shields.io/badge/-@PrabalGupta__-1ca0f1?style=ft&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PrabalGupta__" width="25%"/></a>
   <a href="https://medium.com/@prabalgupta/" target="_blank"><img src="https://img.shields.io/badge/-@prabalgupta-000000?style=flat&labelColor=black&logo=Medium&link=https://medium.com/@prabalgupta/" width="25%"/></a>

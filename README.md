@@ -12,7 +12,6 @@
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prabalgupta12)
     
-[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=prabalgupta12&theme=redical)](https://github.com/prabalgupta12/github-readme-activity-graph)    
 
 ### Hi there 👋
 ### 🔭 I’m currently working on Web Development
@@ -23,6 +22,5 @@
 
   <img align = "center"  src = "https://github-readme-stats.vercel.app/api?username=prabalgupta12&count_private=true&show_icons=true&theme=tokyonight" >
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prabalgupta12">
-    
 
-
+[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=prabalgupta12&theme=redical)](https://github.com/prabalgupta12/github-readme-activity-graph)    

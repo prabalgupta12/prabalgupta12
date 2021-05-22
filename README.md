@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://prabalgupta12.github.io/">Prabal Gupta</a></h1>
+<h1 align="center"><a href="https://prabalguptaportfolio.netlify.app/">Prabal Gupta</a></h1>
 
 ![counter](https://en7k4niarxtrtbv.m.pipedream.net)
 <p>

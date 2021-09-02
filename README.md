@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/angular%20-%231572B6.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/express.js%20-%231572B6.svg?&style=for-the-badge&logo=express.js&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/C++%20-%231572B6.svg?&style=for-the-badge&logo=C++&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C%20-%231572B6.svg?&style=for-the-badge&logo=C&logoColor=white" />&nbsp;&nbsp;
 
 </p>
     

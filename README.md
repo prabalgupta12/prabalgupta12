@@ -1,7 +1,6 @@
 ## Hi there 👋 <h1 align="center"><a href="https://prabalguptaportfolio.netlify.app/">Prabal Gupta</a></h1>
 
 ### 🔭 I’m currently working on Web Development
-### 🌱 I’m currently learning ML and Data Science
 ### ⚡ Other hobbbie : Reading Investing Books , Problem Solving , Cricket
 
 ![counter](https://en7k4niarxtrtbv.m.pipedream.net)

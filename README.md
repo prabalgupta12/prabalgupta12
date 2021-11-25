@@ -45,4 +45,3 @@
     
 
 
-[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=prabalgupta12&theme=github)](https://github.com/prabalgupta12/github-readme-activity-graph )    

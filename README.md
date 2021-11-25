@@ -39,6 +39,7 @@
     <img src="https://img.shields.io/badge/express%20-%231572B6.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/c%20-%231572B6.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/c++%20-%231572B6.svg?&style=for-the-badge&logo=c++logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/c++%20-%231572B6.svg?&style=for-the-badge&logo=UXlogoColor=white" />&nbsp;&nbsp;
 </p>
     
     

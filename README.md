@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/heroku%20-%231572B6.svg?&style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/angular%20-%231572B6.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/express%20-%231572B6.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/express%20-%231572B6.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/c%20-%231572B6.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/c++%20-%231572B6.svg?&style=for-the-badge&logo=c++logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/figma%20-%231572B6.svg?&style=for-the-badge&logo=figmalogoColor=white" />&nbsp;&nbsp;
